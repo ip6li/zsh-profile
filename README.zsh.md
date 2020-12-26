@@ -8,6 +8,10 @@ This will be developed to a useful zsh set up.
 
 .zshrc has keybindings, so home, end etc. work
 
+# References
+
+http://zsh.sourceforge.net/Doc/Release/
+
 # Changelog
 
 2020-12-26: Version for Linux added
